@@ -26,6 +26,7 @@ BeesBot uses the **minimax algorithm** to optimize its gameplay strategy by simu
 - **Honey Production**: By converting nectar to honey, BeesBot earns significant points. It strategically balances energy use and honey production.
 - **Tile Interaction**: The bot makes optimal use of special tiles (e.g., HIVE, POND, BOOSTER_NECTAR_30_PCT, BOOSTER_NECTAR_50_PCT, SUPER_HONEY) to maximize points.
 - **Endgame Strategy**: BeesBot is designed to adapt to endgame conditions, aiming to outscore opponents based on remaining resources and final outcomes.
+- **Multi-Map Support**: BeesBot is developed to perform efficiently across various maps, adjusting its strategy to different layouts and tile distributions.
 
 ## Authors
 
