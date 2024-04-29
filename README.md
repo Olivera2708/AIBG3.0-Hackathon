@@ -2,6 +2,10 @@
 
 Welcome to **BeesBot**, the ultimate bot designed to win the Bees Game by applying strategic decision-making and optimization with the minimax algorithm. This project was developed during the AIBG3.0 Hackathon within a 20-hour timeframe, and it aims to maximize points by intelligently managing resources, actions, and tiles in the Bees Game.
 
+<p align="center">
+  <img src="images/game.png" width="500"/>
+</p>
+
 ## Game Overview
 
 In the Bees Game, players control a bee with the following key metrics:
