@@ -1,0 +1,9 @@
+gameStateJSON  = None
+DEPTH = 3
+ACTIONS = ["move", "convertNectarToHoney", "feedBeeWithNectar", "skipATurn"]
+ourPlayer = 1
+opponentPlayer = 2
+PLAYER_ID = 382538
+FLOWERS = ["CHERRY_BLOSSOM","LILAC","ROSE","SUNFLOWER"]
+BOOSTERS = ["BOOSTER_NECTAR_30_PCT","BOOSTER_NECTAR_50_PCT","BOOSTER_NECTAR_100_PCT"]
+gameId = 1
